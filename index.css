@@ -1,0 +1,64 @@
+#box{
+    background-color: #31363fb2;
+    padding: 50px;
+    width: 30%;
+    height: 40%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 50px 75px ;
+    background-image: url("/assets/images/lucija-ros-SxNX66JAFHI-unsplash.jpg");
+}
+
+#fundo{
+    background-color: black;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+button{
+    display: flex;
+    background-color: #31363F;
+    padding: 5px !important;
+    border: 2px;
+    border-radius:5px ;
+    width: 170px;
+    height: 50px;
+    flex-direction: column;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    display: flex;
+    background-color: #98CD00;
+    padding: 5px !important;
+    border: 2px;
+    border-radius:5px ;
+    width: 170px;
+    height: 50px;
+    flex-direction: column;
+    color: white;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+#regiao{
+    color: #98CD00;
+}
+
+#profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+    border: 3px solid #98CD00;
+    
+}
